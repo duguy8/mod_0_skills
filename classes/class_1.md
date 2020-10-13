@@ -10,7 +10,7 @@ entree_options (integer)
 Methods:
 fire_employee (removes one employee. num_of_employees - 1)
 
-vegan_customer (checks to see if vegan can eat here. returns true or false)
+vegan_customer (checks vegan_option to see if vegan can eat here. returns true or false)
 
 picky_customer (customer won't eat unless more than 10 options. checks to see if entree_options is > 10)
 
