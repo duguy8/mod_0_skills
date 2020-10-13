@@ -1,0 +1,31 @@
+Ruby
+
+```
+#1
+food = "Taco"
+
+#2
+is_delicious = true
+
+#3
+food = "Eggroll"
+
+#4
+num2 = 20
+
+#5
+num7 = 100
+
+#6
+quotient = num7 / num2
+
+#7
+songs = ["Sandstorm", "The Final Countdown", "Wrecking Ball"]
+
+#9
+songs.delete_at(0)
+
+#10
+food.length
+
+```
