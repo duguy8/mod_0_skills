@@ -1,5 +1,5 @@
 ### Instance
-### chic_fil_a_kitchen
+## chic_fil_a_kitchen
 
 #### Attributes:
 

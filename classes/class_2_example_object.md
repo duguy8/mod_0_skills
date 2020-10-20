@@ -1,6 +1,6 @@
 ### Restaurant
 ### class Pizza
-### Instance dominos_white_pizza
+## Instance dominos_white_pizza
 
 #### Attributes:
 

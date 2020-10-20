@@ -1,5 +1,5 @@
 ### Restaurant
-### class Kitchen
+## class Kitchen
 
 #### Attributes:
 

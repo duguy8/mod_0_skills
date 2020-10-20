@@ -1,5 +1,5 @@
 ### Restaurant
-### class Pizza
+## class Pizza
 
 #### Attributes:
 
