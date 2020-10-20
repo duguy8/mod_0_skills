@@ -3,10 +3,10 @@
 
 #### Attributes:
 
-num_of_employees (integer)
-vegan_option (boolean)
-sq_ft_of_kitchen (integer/float)
-entree_options (integer)
+num_of_employees (integer)\
+vegan_option (boolean)\
+sq_ft_of_kitchen (integer/float)\
+entree_options (integer)\
 
 
 #### Methods:

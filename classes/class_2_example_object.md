@@ -4,10 +4,10 @@
 
 #### Attributes:
 
-num_of_options = 8
-pizza_name = "White Pizza"
-pizza_cook_time = 10
-num_of_orders = 12
+num_of_options = 8\
+pizza_name = "White Pizza"\
+pizza_cook_time = 10\
+num_of_orders = 12\
 
 #### Methods:
 
