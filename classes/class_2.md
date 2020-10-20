@@ -1,17 +1,19 @@
-Restaurant
-class Pizza
+### Restaurant
+### class Pizza
 
-Attributes:
-num_of_pizza_options (integer)
-red_or_white (boolean)
-pizza_cook_temp (integer/float)
-pizza_size (integer)
+#### Attributes:
 
-Methods:
-cook_pizza (if pizza_cook_temp is above 350 < returns 10 in minutes)
+num_of_options (integer)
+pizza_name (string)
+pizza_cook_time (integer/float)
+num_of_orders (integer)
 
-box_up_pizza (subtracts pizza_size from the box size 20)
+#### Methods:
 
-pick_a_sauce (takes red_or_white and returns true for red, false for white)
+canceled_order (subtracts 1 from num_of_orders)
 
-add_a_new_topping (takes num_of_pizza_options and adds 1)
+order_pizza (returns string from pizza_name)
+
+estimated_delivery_time (adds 25 to pizza_cook_time)
+
+add_new_topping (takes num_of_options and adds 1)

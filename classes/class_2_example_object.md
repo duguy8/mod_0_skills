@@ -1,22 +1,20 @@
-Restaurant
-class Pizza
-Dominos White Pizza
+### Restaurant
+### class Pizza
+### Instance dominos_white_pizza
 
-Attributes:
-num_of_pizza_options = 10
-red_or_white = false
-pizza_cook_temp = 400
-pizza_size = 25
+#### Attributes:
 
-Methods:
-cook_pizza (if pizza_cook_temp is above 350 < returns 10 in minutes)
-10
+num_of_options = 8
+pizza_name = "White Pizza"
+pizza_cook_time = 10
+num_of_orders = 12
 
-box_up_pizza (subtracts pizza_size from the box size 20)
-5
+#### Methods:
 
-pick_a_sauce (takes red_or_white and returns true for red, false for white)
-false
+canceled_order: num_of_orders = 11
 
-add_a_new_topping (takes num_of_pizza_options and adds 1)
-11
+order_pizza: pizza_name = "White Pizza"
+
+estimated_delivery_time: pizza_cook_time = 35
+
+add_new_topping: num_of_options: 9
