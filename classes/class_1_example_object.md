@@ -6,7 +6,8 @@
 num_of_employees = 40\
 vegan_option = false\
 sq_ft_of_kitchen = 1000\
-entree_options = 30\
+entree_options = 30
+
 
 #### Methods:
 

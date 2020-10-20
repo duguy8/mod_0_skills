@@ -6,7 +6,8 @@
 num_of_options (integer)\
 pizza_name (string)\
 pizza_cook_time (integer/float)\
-num_of_orders (integer)\
+num_of_orders (integer)
+
 
 #### Methods:
 
